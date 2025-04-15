@@ -34,11 +34,6 @@ A robust backend solution built using Java and Spring Boot for managing the core
 - **POST** `/api/orders/order` - Place an order.
 - **GET** `/api/orders/{id}` - Retrieve order details by order ID.
 
-## Future Enhancements
-
-- Implement order tracking functionality.
-- Add a recommendation system.
-- Improve product search capabilities.
 
 ## How to Use
 
@@ -72,5 +67,12 @@ A robust backend solution built using Java and Spring Boot for managing the core
    - In STS, locate the main application class annotated with `@SpringBootApplication`.
    - Right-click on this class and select **Run As > Spring Boot App**.
    - The application will start, and you will see the startup logs in the console.
+  
+## Future Enhancements
+
+- Implement order tracking functionality.
+- Add a recommendation system.
+- Improve product search capabilities.
+
 
 
